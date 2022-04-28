@@ -1,0 +1,21 @@
+x = 5
+y = 10
+z = 5
+print("-------- == Operator---------------")
+print(x == y)
+print(x == z)
+print("-------- != Operator---------------")
+print(x != y)
+print(x != z)
+print("--------- < Operator --------------")
+print(x < y)
+print(x < z)
+print("--------- > Operator --------------")
+print(x > y)
+print(x > z)
+print("--------- <= Operator --------------")
+print(x <= y)
+print(x <= z)
+print("--------- >= Operator --------------")
+print(x >= y)
+print(x >= z)
